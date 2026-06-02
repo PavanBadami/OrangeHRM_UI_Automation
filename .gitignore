@@ -6,3 +6,5 @@ screenshots/
 logs/
 .idea/
 .env
+allure-results/
+allure-report/
